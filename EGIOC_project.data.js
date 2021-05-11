@@ -173,6 +173,6 @@ Module['FS_createPath']('/EGIOC_project/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 99, "filename": "/UE4CommandLine.txt"}, {"start": 99, "audio": 0, "end": 29075256, "filename": "/EGIOC_project/Content/Paks/EGIOC_project-HTML5.pak"}], "remote_package_size": 29075256, "package_uuid": "0985fb74-afb1-48ff-8847-8be8557e2c20"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 99, "filename": "/UE4CommandLine.txt"}, {"start": 99, "audio": 0, "end": 29075221, "filename": "/EGIOC_project/Content/Paks/EGIOC_project-HTML5.pak"}], "remote_package_size": 29075221, "package_uuid": "483eacd6-d1b5-40ba-8ab4-365fca33fce8"});
 
 })();
